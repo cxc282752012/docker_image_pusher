@@ -1,6 +1,7 @@
 nginx
 gitea/gitea
 mysql
+eclipse-temurin:17.0.15_6-jre-ubi9-minimal
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
